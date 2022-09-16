@@ -9,6 +9,7 @@ Submitting a dataset to the Data Collective does not mean that you cannot contin
 
 ## Submission Guidelines
 To propose a dataset for inclusion in the collective, please submit a 1000-1500-word curatorial statement, organized according to the criteria linked below and addressing these questions as relevant. This statement should make visible the choices and the labor that have gone  into the creation of data sets and demonstrate the scholarly value of this data in its field.
+
 [Click on this link for full criteria on the curatorial statement / data essay](https://docs.google.com/document/d/1tq2-NuKptHvFf_GBbU6PCLvlgItjVjtTSQlxaUBz3tU/edit)
 
 Editors:
