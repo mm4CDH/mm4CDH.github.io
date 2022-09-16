@@ -1,6 +1,8 @@
 
 # Call for Proposals: Nineteenth-Century Data Collective
 
+![](image.png)
+
 The Nineteenth-Century Data Collective peer-reviews and houses literary or cultural data, circa 1800-1900, on an open access website designed, hosted, and maintained by Princeton University Library. 
 
 Not simply a static repository, the Nineteenth-Century Data Collective hopes to increase discoverability for nineteenth-century datasets, share teaching resources, and most importantly, take data creation seriously as an intellectual enterprise. Springing from the work of the Victorian Data Caucus, founding editors Meredith Martin and Megan Ward aim to shift the conversation toward data work as interpretive labor. Working with data now, as in the nineteenth century, is intellectual work in its own right. 
